@@ -1,0 +1,30 @@
+{
+  "dataframe_split": {
+    "columns": [
+      "gender",
+      "age",
+      "num_procedures",
+      "num_medications",
+      "number_emergency",
+      "number_inpatient",
+      "A1Cresult",
+      "insulin",
+      "change",
+      "time_diagnoses_interaction",
+      "diag_1_category",
+      "diag_2_category",
+      "diag_3_category",
+      "sulfonylureas",
+      "biguanides"
+    ],
+    "data": [
+      [0, 70.0, 6, 0.2125, 0, 0, 2, 1, 0, 10, 3, 1, 3, 0, 0],
+      [0, 80.0, 2, 0.225, 0, 2, 2, 1, 1, 36, 4, 0, 6, 0, 0],
+      [0, 70.0, 0, 0.1875, 0, 1, 3, 0, 0, 45, 3, 3, 3, 1, 0],
+      [0, 30.0, 0, 0.1625, 0, 4, 2, 1, 1, 36, 3, 1, 1, 0, 0],
+      [1, 80.0, 2, 0.2875, 0, 0, 2, 3, 0, 90, 3, 1, 3, 0, 0],
+      [1, 80.0, 2, 0.2, 0, 1, 2, 0, 0, 72, 3, 3, 3, 0, 0],
+      [0, 80.0, 1, 0.25, 2, 1, 2, 3, 0, 63, 3, 1, 3, 0, 0]
+    ]
+  }
+}
